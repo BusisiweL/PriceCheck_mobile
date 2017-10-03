@@ -70,7 +70,7 @@ public class AddProduct extends AppCompatActivity {
 
     }
 
-    public void click(View view){
+    public void click(View v){
 
 
         ActivityCompat.requestPermissions(
